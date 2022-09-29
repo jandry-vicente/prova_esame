@@ -1,4 +1,4 @@
-![alt tag](.png)
+![Diagramma_classi.png](https://github.com/jandry-vicente/prova_esame/blob/main/docs/srs/imgs/Diagramma_classi.png)
 
 #### Scenari
 
