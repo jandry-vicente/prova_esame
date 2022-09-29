@@ -1,5 +1,8 @@
+#### Diagramma Classi.
 ![Diagramma_classi.png](https://github.com/jandry-vicente/prova_esame/blob/main/docs/srs/imgs/Diagramma_classi.png)
 
+#### Diagramma di sequenza
+![Diagramma_uml.png]([https://github.com/jandry-vicente/prova_esame/blob/main/docs/srs/imgs/Diagramma_classi.png](https://github.com/jandry-vicente/prova_esame/blob/main/docs/srs/imgs/Diagramma_uml.png))
 #### Scenari
 
 
